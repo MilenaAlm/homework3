@@ -4,8 +4,8 @@ public class Main {
         System.out.println("Задача 1");
         int sugar = 1000;
         System.out.println("Значение переменной sugar с типом int равно "  + sugar);
-        byte apple  = 100;
-        System.out.println("Значение переменной apple с типом byte равно "  + apple);
+        byte apples  = 100;
+        System.out.println("Значение переменной apples с типом byte равно "  + apples);
         short box = 300;
         System.out.println("Значение переменной box с типом short равно "  + box);
         long lemon = 6000L;
